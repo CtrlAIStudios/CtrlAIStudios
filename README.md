@@ -9,14 +9,14 @@ I'm Jordan, Founder and Lead Developer at **[CTRL+AI Studios](https://crtlaistud
 
 ---
 
-### 🚀 Flagship Project: YTMaster
+### 🚀 Flagship Project: EchoFind
 **YTMaster** is an advanced desktop client engineered for power users who need to automate and intelligently orchestrate their YouTube playlists. 
 
 * **Status:** Verified by the Google Trust & Safety Team.
 * **Tech Stack:** Python, Supabase (PostgreSQL), Google YouTube Data API v3, OAuth 2.0.
 * **Key Features:** Seamless playlist extraction, programmatic list generation, and secure cloud synchronization.
 
-➡️ **[Explore YTMaster Here](https://github.com/CtrlAIStudios/YTMaster)**
+➡️ **[Explore EchoFind Here](https://github.com/CtrlAIStudios/EchoFind)**
 
 ---
 
@@ -25,7 +25,7 @@ I'm Jordan, Founder and Lead Developer at **[CTRL+AI Studios](https://crtlaistud
 
 ### 🔗 Let's Connect
 * 🌐 **Official Studio Site:** [crtlaistudios.top](https://crtlaistudios.top)
-* 💼 **LinkedIn:** *(Coloque seu link aqui)*
+* 💼 **LinkedIn:** *https://www.linkedin.com/in/jordan-augusto-s/*
 
 
 # ⚡ Bem-vindo à CTRL+AI Studios
@@ -39,14 +39,14 @@ Sou o Jordan, Fundador e Desenvolvedor Líder da **[CTRL+AI Studios](https://crt
 
 ---
 
-### 🚀 Projeto Destaque: YTMaster
+### 🚀 Projeto Destaque: EchoFind
 O **YTMaster** é um cliente desktop avançado, desenvolvido para *power users* que precisam automatizar e orquestrar de forma inteligente suas playlists do YouTube.
 
 * **Status:** Verificado pela equipe de Trust & Safety do Google.
 * **Stack Tecnológico:** Python, Supabase (PostgreSQL), Google YouTube Data API v3, OAuth 2.0.
 * **Principais Funcionalidades:** Extração fluida de playlists, geração programática de listas e sincronização segura em nuvem.
 
-➡️ **[Explore o YTMaster Aqui](https://github.com/CtrlAIStudios/YTMaster)**
+➡️ **[Explore o EchoFind Aqui](https://github.com/CtrlAIStudios/EchoFind)**
 
 ---
 
@@ -55,4 +55,4 @@ O **YTMaster** é um cliente desktop avançado, desenvolvido para *power users* 
 
 ### 🔗 Vamos Conectar
 * 🌐 **Site Oficial do Estúdio:** [crtlaistudios.top](https://crtlaistudios.top)
-* 💼 **LinkedIn:** *(Coloque seu link aqui)*
+* 💼 **LinkedIn:** *https://www.linkedin.com/in/jordan-augusto-s/*
